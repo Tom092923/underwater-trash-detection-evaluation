@@ -1,0 +1,13 @@
+file,gt_count,yolov8_count,yolov10_count,fasterrcnn_count,yolov8_diff,yolov10_diff,fasterrcnn_diff
+vid_000042_frame0000007.jpg,2,1,1,2,-1,-1,0
+vid_000025_frame0000010.jpg,2,2,0,1,0,-2,-1
+vid_000085_frame0000041.jpg,3,3,2,3,0,-1,0
+vid_000080_frame0000126.jpg,3,1,1,1,-2,-2,-2
+vid_000078_frame0000032.jpg,2,1,1,3,-1,-1,1
+vid_000047_frame0000003.jpg,1,1,1,1,0,0,0
+vid_000041_frame0000005.jpg,1,1,1,1,0,0,0
+vid_000282_frame0000053.jpg,2,2,1,2,0,-1,0
+vid_000037_frame0000005.jpg,3,1,1,2,-2,-2,-1
+vid_000142_frame0000031.jpg,2,2,2,1,0,0,-1
+vid_000026_frame0000017.jpg,1,1,1,1,0,0,0
+vid_000026_frame0000013.jpg,1,1,0,1,0,-1,0
